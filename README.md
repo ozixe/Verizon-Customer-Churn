@@ -32,6 +32,11 @@ The dataset includes customer details, contract types, payment methods, and chur
 - **Promote Stable Payment Methods**: Encourage customers to switch from electronic checks to more stable payment methods like credit cards or bank transfers through incentives, aiming to lower the churn rate from 45% to 25%.
 - **Bundle Services**: Develop and market attractive service bundles to encourage customers to subscribe to multiple services, reducing the single-service churn rate from 25% to 10%.
 
+## Dashboard
+The dashboard can be found in Tableau Public [here](your-link-here). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
+
+![Dashboard Image](path/to/Screenshot%202024-07-31%20183747.png)
+
 
 ## Acknowledgments
 - [Verizon Communications Inc.](https://www.verizon.com/)
