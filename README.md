@@ -1,9 +1,10 @@
 # Analysis of Customer Churn for Verizon Communications Inc.
+
 ## Introduction
 Verizon Communications Inc., a leader in telecommunications, offers internet, phone, and TV services to millions across the U.S. Facing high customer churn rates, this project aims to analyze contributing factors and provide actionable insights for improving customer retention.
-## Business Context
-<img src="https://github.com/user-attachments/assets/9a2da682-50b1-4d2a-ac4a-ffd846d4f14a" alt="Verizon Logo" width="700"/>
 
+## Business Context
+![Verizon Logo](https://github.com/user-attachments/assets/9a2da682-50b1-4d2a-ac4a-ffd846d4f14a)
 
 Founded in 1983, Verizon Communications Inc. has become a prominent telecommunications provider in the U.S., serving a diverse customer base. The company faces significant challenges due to high customer churn rates, impacting revenue and market position. The primary goal is to identify and mitigate factors contributing to churn, ensuring sustained growth and customer loyalty.
 
@@ -37,10 +38,8 @@ The dashboard can be found in Tableau Public [here](your-link-here). This dashbo
 
 ![Dashboard Image](path/to/Screenshot%202024-07-31%20183747.png)
 
-
 ## Acknowledgments
 - [Verizon Communications Inc.](https://www.verizon.com/)
 - [Data Source](#)
-
 
 
