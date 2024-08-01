@@ -37,13 +37,11 @@ The dataset includes customer details, contract types, payment methods, and chur
 - **Fiber Optique Issue**: Invest in upgrading the network infrastructure to improve service reliability, speed consistency, and minimize downtime. This will address the high churn rate by ensuring customers receive a high-quality, dependable service.
 - **New Flexible Plans**: Develop flexible, customizable partner and family plans that cater to specific household needs, including multi-line discounts and family-centric features such as parental controls. This will increase customer satisfaction and retention.
 
-## Dashboard
-The dashboard can be found in Tableau Public [here](your-link-here). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
-
-![Dashboard Image](path/to/Screenshot%202024-07-31%20183747.png)
+## Documentation 
+For a detailed analysis, insights, and visualizations, please refer to the [Medium article](https://medium.com/@ozixe/telco-customer-churn-analysis-by-ozixe-f3fe0189343e).
 
 ## Acknowledgments
 - [Verizon Communications Inc.](https://www.verizon.com/)
-- [Data Source](#)
+- [Data Source](https://github.com/ozixe/Verizon-Telcom-CustomerChurn/tree/main/Dataset)
 
 
