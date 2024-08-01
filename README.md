@@ -23,6 +23,8 @@ The dataset includes customer details, contract types, payment methods, and chur
 - **Contract Type**: Customers with month-to-month contracts have a churn rate of 43%, significantly higher than those with longer contracts.
 - **Payment Method**: Electronic check payments are associated with a 45% churn rate, higher than other payment methods.
 - **Service Usage**: Customers using multiple services (internet, phone, TV) exhibit a churn rate 25% lower than single-service customers.
+- **Partner and Family Plans**: Customers enrolled in partner or family plans have a churn rate of 17.55%, which is notably below the average churn rate of 26.54%.
+- **Internet Services**: Customers enrolled in Fiber optique  plans have a The higher churn rate 41.89% , it  indicates potential issues with fiber optic service quality or pricing that need to be addressed.
 
 ## North Star Metrics
 - **Churn Rate**: Overall churn rate is 26%, a critical metric for understanding customer retention.
@@ -32,6 +34,8 @@ The dataset includes customer details, contract types, payment methods, and chur
 - **Incentivize Long-Term Contracts**: Implement attractive discounts and promotions for one-year and two-year contracts to reduce the churn rate from 43% to below 20%.
 - **Promote Stable Payment Methods**: Encourage customers to switch from electronic checks to more stable payment methods like credit cards or bank transfers through incentives, aiming to lower the churn rate from 45% to 25%.
 - **Bundle Services**: Develop and market attractive service bundles to encourage customers to subscribe to multiple services, reducing the single-service churn rate from 25% to 10%.
+- **Fiber Optique Issue**: Invest in upgrading the network infrastructure to improve service reliability, speed consistency, and minimize downtime. This will address the high churn rate by ensuring customers receive a high-quality, dependable service.
+- **New Flexible Plans**: Develop flexible, customizable partner and family plans that cater to specific household needs, including multi-line discounts and family-centric features such as parental controls. This will increase customer satisfaction and retention.
 
 ## Dashboard
 The dashboard can be found in Tableau Public [here](your-link-here). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
